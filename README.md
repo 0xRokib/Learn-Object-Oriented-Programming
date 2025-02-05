@@ -9,7 +9,7 @@ Welcome to the ultimate guide to learning **Object-Oriented Programming (OOP)** 
 1. **Chapter 1: Introduction to OOP** 🎯
 
    - [Lesson 1: What is OOP?](Chapter1/Lesson1/README.md)
-     - [Code Examples](Chapter1/Lesson1/code/)
+     - [Code Examples](Chapter1/Lesson1/main.py)
    - [Lesson 2: Classes and Objects](Chapter1/Lesson2/README.md)
      - [Code Examples](Chapter1/Lesson2/code/)
    - [Lesson 3: Attributes and Methods](Chapter1/Lesson3/README.md)
