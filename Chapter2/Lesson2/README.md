@@ -162,7 +162,7 @@ print(self_driving_car.drive_autonomously())  # Output: Tesla Model X is driving
 
 ## Real-World Example: Vehicle Management System
 
-Let's apply these concepts to a real-world scenario where we manage a fleet of vehicles. Each vehicle type shares common properties (e.g., `make`, `model`, `year`) but has unique features.
+Let’s apply these concepts to a real-world scenario where we manage a fleet of vehicles. Each vehicle type shares common properties (e.g., `make`, `model`, `year`) but has unique features.
 
 ### Base Class: `Vehicle`
 
@@ -282,6 +282,31 @@ print(electric_car.charge()) # Output: Tesla Model S is charging with 100 kWh ba
 3. **`super()` Function**: Used to call the parent class's `__init__` method and initialize inherited attributes.
 4. **Code Reusability**: Common functionality is defined once in the parent class and reused in child classes.
 5. **Extensibility**: New vehicle types can be added easily without modifying existing code.
+
+---
+
+## The `__str__` Method
+
+The `__str__` method is a special method in Python that defines how an object should be represented as a string. It is called when you use the `print()` function or the `str()` function on an object.
+
+### Example:
+
+```python
+def __str__(self):
+    return f"{self.make} {self.model} (Year: {self.year})"
+```
+
+### How It Works:
+
+- When you call `print(object)`, Python internally calls `object.__str__()`.
+- The `__str__` method returns a string that represents the object in a human-readable format.
+- If `__str__` is not defined, Python falls back to the `__repr__` method.
+
+### Why Use `__str__`?
+
+- **Readability**: Provides a clear and concise way to display object details.
+- **Customization**: Tailors the string representation to include only the most relevant information.
+- **Debugging**: Makes it easier to inspect objects during development.
 
 ---
 
