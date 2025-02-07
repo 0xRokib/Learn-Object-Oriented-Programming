@@ -18,7 +18,7 @@ Welcome to the ultimate guide to learning **Object-Oriented Programming (OOP)** 
 2. **Chapter 2: Pillars of OOP** 🏛️
 
    - [Lesson 1: Encapsulation](Chapter2/Lesson1/README.md)
-     - [Code Examples](Chapter2/Lesson1/code/)
+     - [Code Examples](Chapter2/Lesson1/main.py)
    - [Lesson 2: Inheritance](Chapter2/Lesson2/README.md)
      - [Code Examples](Chapter2/Lesson2/code/)
    - [Lesson 3: Polymorphism](Chapter2/Lesson3/README.md)
