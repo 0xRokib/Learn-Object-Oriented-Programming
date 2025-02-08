@@ -1,12 +1,61 @@
 # Encapsulation in Python: A Real-World Example
 
-Encapsulation is a key concept in object-oriented programming that bundles data (attributes) and methods (functions) into a single unit (class) and restricts direct access to some components. This ensures data integrity, controlled interaction, and modularity.
+Encapsulation is a fundamental concept in object-oriented programming (OOP) that bundles data (attributes) and methods (functions) into a single unit (class) and restricts direct access to some components. This ensures data integrity, controlled interaction, and modularity.
 
-Let’s use a **Bank Account System** as an example to demonstrate encapsulation in action.
+Let’s start with a **basic example** to understand encapsulation and then refactor it into a more advanced **Bank Account System** example.
 
 ---
 
-## Use Case: Bank Account System
+## Basic Example: A Simple Counter
+
+Let’s create a simple `Counter` class to demonstrate encapsulation.
+
+```python
+class Counter:
+    def __init__(self):
+        self.__count = 0  # Private attribute
+
+    # Public method to increment the counter
+    def increment(self):
+        self.__count += 1
+
+    # Public method to get the current count
+    def get_count(self):
+        return self.__count
+```
+
+### Explanation:
+
+1. **Private Attribute (`__count`)**:
+
+   - The `__count` attribute is private, meaning it cannot be accessed directly from outside the class.
+   - It is prefixed with double underscores (`__`) to enforce name mangling.
+
+2. **Public Methods (`increment` and `get_count`)**:
+   - These methods provide controlled access to the private attribute `__count`.
+   - `increment` modifies the count, and `get_count` retrieves the current value.
+
+### Example Usage:
+
+```python
+counter = Counter()
+counter.increment()
+counter.increment()
+print(counter.get_count())  # Output: 2
+
+# Attempt to access private attribute directly (will raise an error)
+# print(counter.__count)  # AttributeError
+```
+
+---
+
+## Advanced Example: Bank Account System
+
+Now, let’s refactor the basic example into a more advanced **Bank Account System** to demonstrate encapsulation in a real-world scenario.
+
+---
+
+### Use Case: Bank Account System
 
 In a bank account system:
 
@@ -17,7 +66,7 @@ In a bank account system:
 
 ---
 
-## Implementation
+### Implementation
 
 ```python
 class BankAccount:
@@ -104,7 +153,7 @@ class BankAccount:
 
 ---
 
-## Example Usage
+### Example Usage
 
 ```python
 # Create a bank account
@@ -136,7 +185,7 @@ account.withdraw(200, "0000")
 
 ---
 
-## Why This Example Works
+### Why This Example Works
 
 1. **Data Protection**:
 
