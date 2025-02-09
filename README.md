@@ -22,7 +22,7 @@ Welcome to the ultimate guide to learning **Object-Oriented Programming (OOP)** 
    - [Lesson 2: Inheritance](Chapter2/Lesson2/README.md)
      - [Code Examples](Chapter2/Lesson2/main.py)
    - [Lesson 3: Polymorphism](Chapter2/Lesson3/README.md)
-     - [Code Examples](Chapter2/Lesson3/code/)
+     - [Code Examples](Chapter2/Lesson3/main.py)
    - [Lesson 4: Abstraction](Chapter2/Lesson4/README.md)
      - [Code Examples](Chapter2/Lesson4/code/)
 
