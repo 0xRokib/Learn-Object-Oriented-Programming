@@ -6,7 +6,7 @@ class MyClass:
     def instance_method(self):
         return f"Instance method called. Name: {self.name}"
 
-# Usage
+# Usage example
 obj = MyClass("Alice")
 print(obj.instance_method())
 
