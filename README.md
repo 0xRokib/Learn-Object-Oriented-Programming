@@ -32,8 +32,8 @@ Welcome to the ultimate guide to learning **Object-Oriented Programming (OOP)** 
      - [Code Examples](Chapter3/Lesson1/code/)
    - [Lesson 2: Decorators in OOP](Chapter3/Lesson2/README.md)
      - [Code Examples](Chapter3/Lesson2/code/)
-   - [Lesson 3: Class and Static Methods](Chapter3/Lesson3/README.md)
-     - [Code Examples](Chapter3/Lesson3/main.py)
+   - [Lesson 3: Class and Static Methods](chapter3/Lesson3/README.md)
+     - [Code Examples](chapter3/Lesson3/main.py)
 
 4. **Chapter 4: Design Patterns in OOP** 🛠️
 
