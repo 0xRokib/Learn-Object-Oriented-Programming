@@ -11,7 +11,6 @@ obj = MyClass("Alice")
 print(obj.instance_method())
 
 #Class Method
-
 class MyClass:
     class_variable = "Hello"
 
@@ -23,7 +22,7 @@ class MyClass:
 print(MyClass.class_method())
 
 
-# Static Method
+# Static Method 
 class MyClass:
     @staticmethod
     def static_method():
