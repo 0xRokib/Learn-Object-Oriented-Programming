@@ -24,7 +24,7 @@ Welcome to the ultimate guide to learning **Object-Oriented Programming (OOP)** 
    - [Lesson 3: Polymorphism](Chapter2/Lesson3/README.md)
      - [Code Examples](Chapter2/Lesson3/main.py)
    - [Lesson 4: Abstraction](Chapter2/Lesson4/README.md)
-     - [Code Examples](Chapter2/Lesson4/code/)
+     - [Code Examples](Chapter2/Lesson4/main.py)
 
 3. **Chapter 3: Advanced OOP Concepts** 🔥
 
