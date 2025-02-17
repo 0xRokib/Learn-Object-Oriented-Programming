@@ -29,9 +29,9 @@ Welcome to the ultimate guide to learning **Object-Oriented Programming (OOP)** 
 3. **Chapter 3: Advanced OOP Concepts** 🔥
 
    - [Lesson 1: Magic Methods](Chapter3/Lesson1/README.md)
-     - [Code Examples](Chapter3/Lesson1/code/)
+     - [Code Examples](Chapter3/Lesson1/main.py)
    - [Lesson 2: Decorators in OOP](Chapter3/Lesson2/README.md)
-     - [Code Examples](Chapter3/Lesson2/code/)
+     - [Code Examples](Chapter3/Lesson2/main.py)
    - [Lesson 3: Class and Static Methods](Chapter3/Lesson3/README.md)
      - [Code Examples](Chapter3/Lesson3/main.py)
 
