@@ -40,7 +40,7 @@ Welcome to the **ultimate guide** for mastering **Object-Oriented Programming (O
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/python-oop-guide.git
+   git clone https://github.com/rokib97/Learn-Object-Oriented-Programming.git
    ```
 2. Follow lessons step-by-step & explore **code examples**.
 3. Experiment, modify, and apply your knowledge! 🎉
@@ -50,7 +50,5 @@ Welcome to the **ultimate guide** for mastering **Object-Oriented Programming (O
 ## 🤝 Contribute & Connect
 
 Found a bug or want to contribute? **PRs are welcome!** 🚀 Open an issue or submit a pull request.
-
-📜 **License:** MIT. See [LICENSE](LICENSE).
 
 Happy coding! 🎉👩‍💻👨‍💻
