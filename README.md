@@ -35,23 +35,6 @@ Welcome to the ultimate guide to learning **Object-Oriented Programming (OOP)** 
    - [Lesson 3: Class and Static Methods](Chapter3/Lesson3/README.md)
      - [Code Examples](Chapter3/Lesson3/main.py)
 
-4. **Chapter 4: Design Patterns in OOP** 🛠️
-
-   - [Lesson 1: Singleton Pattern](Chapter4/Lesson1/README.md)
-     - [Code Examples](Chapter4/Lesson1/code/)
-   - [Lesson 2: Factory Pattern](Chapter4/Lesson2/README.md)
-     - [Code Examples](Chapter4/Lesson2/code/)
-   - [Lesson 3: Observer Pattern](Chapter4/Lesson3/README.md)
-     - [Code Examples](Chapter4/Lesson3/code/)
-
-5. **Chapter 5: Real-World Applications of OOP** 🌍
-   - [Lesson 1: Building a Python Project with OOP](Chapter5/Lesson1/README.md)
-     - [Code Examples](Chapter5/Lesson1/code/)
-   - [Lesson 2: Testing OOP Code](Chapter5/Lesson2/README.md)
-     - [Code Examples](Chapter5/Lesson2/code/)
-   - [Lesson 3: Best Practices in OOP](Chapter5/Lesson3/README.md)
-     - [Code Examples](Chapter5/Lesson3/code/)
-
 ---
 
 ## 🛠️ Projects Section 🚀
