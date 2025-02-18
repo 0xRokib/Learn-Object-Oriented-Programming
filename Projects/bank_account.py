@@ -39,3 +39,11 @@ class BankAcoount:
             print("\nTransfer Complete! \n\n********")
         except BalanceException as error:
             print(f"Transfer Interrupted: {error}")
+            
+            
+class InterestRewardAccount(BankAcoount):
+    def deposite(self,amount):
+        self.balance = self.balance + (amount * 1.05)
+        print("\nDeposite Complete.")
+        self.get_balance()
+        
