@@ -29,7 +29,7 @@ Welcome to the **ultimate guide** for mastering **Object-Oriented Programming (O
 
 ## 🛠️ Hands-on Projects 🚀
 
-- **[Bank Account System](Projects/BankAccountSystem/)**
+- **[Bank Account System](Projects/BankAccountSystem/)** 💳
 
 ---
 
