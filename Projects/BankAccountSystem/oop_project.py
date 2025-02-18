@@ -13,7 +13,12 @@ Rokib = BankAcoount(1000, "Rokib")
 
 # Rokib.transfer_amount(100, Sara)
 
-Jim = InterestRewardAccount(1000,"Jim")
-Jim.get_balance()
-Jim.deposite(100)
-Jim.transfer_amount(10, Rokib)
+# Jim = InterestRewardAccount(1000,"Jim")
+# Jim.get_balance()
+# Jim.deposite(100)
+# Jim.transfer_amount(10, Rokib)
+
+Blaze = SavingAcount(1000, "Blaze")
+Blaze.get_balance()
+Blaze.deposite(100)
+Blaze.transfer_amount(1000, Rokib)
