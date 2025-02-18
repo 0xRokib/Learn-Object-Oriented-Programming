@@ -29,10 +29,7 @@ Welcome to the **ultimate guide** for mastering **Object-Oriented Programming (O
 
 ## 🛠️ Hands-on Projects 🚀
 
-- **[Bank Account System](Projects/BankAccountSystem/)** 💳 (Classes & Objects)
-- **[Library Management](Projects/LibraryManagementSystem/)** 📚 (Inheritance & Encapsulation)
-- **[Shopping Cart](Projects/ShoppingCart/)** 🛒 (Polymorphism & Abstraction)
-- **[Game Character System](Projects/GameCharacterSystem/)** 🎮 (Advanced OOP & Magic Methods)
+- **[Bank Account System](Projects/BankAccountSystem/)**
 
 ---
 
