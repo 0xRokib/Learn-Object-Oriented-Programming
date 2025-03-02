@@ -30,6 +30,7 @@ Welcome to the **ultimate guide** for mastering **Object-Oriented Programming (O
 ## 🛠️ Hands-on Projects 🚀
 
 - **[Bank Account System](Projects/BankAccountSystem/)** 💳
+- **[Build Asteroids Game](https://github.com/0xRokib/asteriods)** 💳
 
 ---
 
